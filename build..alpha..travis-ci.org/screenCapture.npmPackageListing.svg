@@ -1,0 +1,82 @@
+<svg height="1262" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1262" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 01:17:40 +0000   310346 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 01:17:40 +0000     7808 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 01:17:40 +0000      886 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 01:17:40 +0000     7651 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 01:17:40 +0000     4608 bytes  MIGRATION.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 01:17:40 +0000      589 bytes  Makefile</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 01:17:40 +0000     2779 bytes  Makefile.node</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 01:17:40 +0000    25468 bytes  README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 01:17:40 +0000     5688 bytes  TROUBLESHOOTING.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 01:17:40 +0000      157 bytes  bin/pa11y</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 01:17:40 +0000     5550 bytes  bin/pa11y.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 01:17:40 +0000      831 bytes  example/actions/index.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 01:17:40 +0000      491 bytes  example/basic/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 01:17:40 +0000     1973 bytes  example/before-script/index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 01:17:40 +0000     1346 bytes  example/multiple-concurrent/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 01:17:40 +0000      789 bytes  example/multiple/index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 01:17:40 +0000     4968 bytes  lib/action.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 01:17:40 +0000     5319 bytes  lib/inject.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 01:17:40 +0000     5229 bytes  lib/pa11y.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 01:17:40 +0000     1606 bytes  lib/vendor/HTMLCS-LICENSE</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 01:17:40 +0000   123033 bytes  lib/vendor/HTMLCS.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 01:17:40 +0000     3758 bytes  package.json</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 01:17:40 +0000     2018 bytes  reporter/cli.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 01:17:40 +0000      691 bytes  reporter/csv.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 01:17:40 +0000     1883 bytes  reporter/html.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 01:17:40 +0000     1667 bytes  reporter/html/report.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 01:17:40 +0000      131 bytes  reporter/html/result.html</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 01:17:40 +0000      585 bytes  reporter/json.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 01:17:40 +0000     1681 bytes  reporter/markdown.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 01:17:40 +0000      707 bytes  reporter/tsv.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 01:17:40 +0000     1018 bytes  test/integration/cli-actions.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 01:17:40 +0000     3085 bytes  test/integration/cli-basic.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-22 01:17:40 +0000      819 bytes  test/integration/cli-config.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-22 01:17:40 +0000      724 bytes  test/integration/cli-environment.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-22 01:17:40 +0000     1239 bytes  test/integration/cli-hide-elements.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-22 01:17:40 +0000     2678 bytes  test/integration/cli-ignore.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-22 01:17:40 +0000     3141 bytes  test/integration/cli-level.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-22 01:17:40 +0000      668 bytes  test/integration/cli-reporter-csv.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-22 01:17:40 +0000      686 bytes  test/integration/cli-reporter-json.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-22 01:17:40 +0000      763 bytes  test/integration/cli-reporter-markdown.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-22 01:17:40 +0000      666 bytes  test/integration/cli-reporter-tsv.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-22 01:17:40 +0000      655 bytes  test/integration/cli-root-element.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-22 01:17:40 +0000     1994 bytes  test/integration/cli-rules.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-22 01:17:40 +0000      798 bytes  test/integration/cli-screen-capture.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-22 01:17:40 +0000     2171 bytes  test/integration/cli-selector.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-22 01:17:40 +0000     2844 bytes  test/integration/cli-standard.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-22 01:17:40 +0000     1382 bytes  test/integration/cli-threshold.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-22 01:17:40 +0000     1394 bytes  test/integration/helper/describe-cli-call.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-22 01:17:40 +0000      113 bytes  test/integration/mock/config/actions-wait-fragme\</tspan>
+<tspan x="10" y="810">nt.json</tspan>
+<tspan x="10" y="826"> 49.  2017-04-22 01:17:40 +0000      111 bytes  test/integration/mock/config/actions-wait-path.j\</tspan>
+<tspan x="10" y="842">son</tspan>
+<tspan x="10" y="858"> 50.  2017-04-22 01:17:40 +0000       52 bytes  test/integration/mock/config/headers.json</tspan>
+<tspan x="10" y="874"> 51.  2017-04-22 01:17:40 +0000       80 bytes  test/integration/mock/config/ignore.json</tspan>
+<tspan x="10" y="890"> 52.  2017-04-22 01:17:40 +0000       29 bytes  test/integration/mock/config/standard.json</tspan>
+<tspan x="10" y="906"> 53.  2017-04-22 01:17:40 +0000       17 bytes  test/integration/mock/config/timeout.json</tspan>
+<tspan x="10" y="922"> 54.  2017-04-22 01:17:40 +0000      145 bytes  test/integration/mock/html/errors.html</tspan>
+<tspan x="10" y="938"> 55.  2017-04-22 01:17:40 +0000      127 bytes  test/integration/mock/html/headers.html</tspan>
+<tspan x="10" y="954"> 56.  2017-04-22 01:17:40 +0000      257 bytes  test/integration/mock/html/heading-errors.html</tspan>
+<tspan x="10" y="970"> 57.  2017-04-22 01:17:40 +0000      865 bytes  test/integration/mock/html/hide-elements.html</tspan>
+<tspan x="10" y="986"> 58.  2017-04-22 01:17:40 +0000      158 bytes  test/integration/mock/html/link-target.html</tspan>
+<tspan x="10" y="1002"> 59.  2017-04-22 01:17:40 +0000      202 bytes  test/integration/mock/html/link.html</tspan>
+<tspan x="10" y="1018"> 60.  2017-04-22 01:17:40 +0000      278 bytes  test/integration/mock/html/manyerrors.html</tspan>
+<tspan x="10" y="1034"> 61.  2017-04-22 01:17:40 +0000      148 bytes  test/integration/mock/html/notices.html</tspan>
+<tspan x="10" y="1050"> 62.  2017-04-22 01:17:40 +0000      264 bytes  test/integration/mock/html/root-element.html</tspan>
+<tspan x="10" y="1066"> 63.  2017-04-22 01:17:40 +0000      223 bytes  test/integration/mock/html/selectors.html</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-22 01:17:40 +0000      426 bytes  test/integration/mock/html/toggle.html</tspan>
+<tspan x="10" y="1098"> 65.  2017-04-22 01:17:40 +0000      155 bytes  test/integration/mock/html/warnings.html</tspan>
+<tspan x="10" y="1114"> 66.  2017-04-22 01:17:40 +0000      714 bytes  test/integration/mock/website.js</tspan>
+<tspan x="10" y="1130"> 67.  2017-04-22 01:17:40 +0000      161 bytes  test/integration/setup.js</tspan>
+<tspan x="10" y="1146"> 68.  2017-04-22 01:17:40 +0000    24504 bytes  test/unit/lib/action.js</tspan>
+<tspan x="10" y="1162"> 69.  2017-04-22 01:17:40 +0000    14798 bytes  test/unit/lib/inject.js</tspan>
+<tspan x="10" y="1178"> 70.  2017-04-22 01:17:40 +0000    18450 bytes  test/unit/lib/pa11y.js</tspan>
+<tspan x="10" y="1194"> 71.  2017-04-22 01:17:40 +0000      284 bytes  test/unit/mock/phantom.js</tspan>
+<tspan x="10" y="1210"> 72.  2017-04-22 01:17:40 +0000      193 bytes  test/unit/mock/truffler.js</tspan>
+<tspan x="10" y="1226"> 73.  2017-04-22 01:17:40 +0000      595 bytes  test/unit/mock/window.js</tspan>
+<tspan x="10" y="1242"> 74.  2017-04-22 01:17:40 +0000      382 bytes  test/unit/setup.js</tspan>
+</text>
+</svg>
